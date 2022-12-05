@@ -17,8 +17,4 @@ Sorry about that.
 
 ## Logging in
 
-The login information can be found below.
-
-Username: Administrator
-
-Password: 3Iea#\"jcm-?^%
+The login information can be found in LOGIN.TXT
