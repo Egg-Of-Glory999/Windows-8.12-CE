@@ -1,0 +1,4 @@
+This file will ONLY be included if you download the 86Box Virtual Machine.
+
+Username: Administrator
+Password: 3Iea#\"jcm-?^%
