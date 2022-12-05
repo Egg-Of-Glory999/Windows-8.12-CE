@@ -20,6 +20,5 @@ Sorry about that.
 The login information can be found below.
 
 Username: Administrator
----
-Password: 3Iea#\"jcm-?^%
 
+Password: 3Iea#\"jcm-?^%
