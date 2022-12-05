@@ -14,3 +14,12 @@ It is not the easiest to compile, in fact, I don't even know how to compile this
 Until I can figure out how to compile, or somebody tells me how, you'll just have to download the ISO image and the boot disks.
 
 Sorry about that.
+
+## Logging in
+
+The login information can be found below.
+
+Username: Administrator
+---
+Password: 3Iea#\"jcm-?^%
+
